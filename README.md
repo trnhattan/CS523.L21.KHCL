@@ -18,5 +18,5 @@
 - [x] **Week 2** 
   - [x] **[Introduction]**
 
-- [x] **Week 3**
+- [ ] **Week 3**
   - [ ] **[External sorting]()**
