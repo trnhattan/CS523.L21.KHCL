@@ -18,5 +18,8 @@
 - [x] **Week 2** 
   - [x] **[Introduction]**
 
-- [ ] **Week 3**
-  - [ ] **[External sorting]()**
+- [x] **Week 3**
+  - [x] **[External sorting](https://github.com/Nhatthanh1/CTDLNC_nhom5/tree/Main/ExternalSort)**
+
+- [ ] **Week 4** 
+  - [ ] **[Indexing and B-Tree]**
