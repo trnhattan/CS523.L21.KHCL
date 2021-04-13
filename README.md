@@ -1,4 +1,5 @@
 # CS523.L21.KHCL - Advanced data structure and algorithm
+![](https://img.shields.io/badge/Status-working-brightgreen) [![](https://img.shields.io/badge/Contributors-3-brightgreen)](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/graphs/contributors)
 ## Lecturer:
 - **Mr. Nguyen Thanh Son**   
 ---
@@ -21,5 +22,8 @@
 - [x] **Week 3**
   - [x] **[External sorting](https://github.com/Nhatthanh1/CTDLNC_nhom5/tree/Main/ExternalSort)**
 
-- [ ] **Week 4** 
-  - [ ] **[Indexing and B-Tree]**
+- [x] **Week 4** 
+  - [x] **[Indexing and B-Tree](https://github.com/CS523-L21-KHCL-TEAM-3/b-tree-visualizer)**
+
+- [x] **Week 5**
+  - [x] **[Trie](https://github.com/hoanghung3011/nhom6_cs523.l21.khcl)**
