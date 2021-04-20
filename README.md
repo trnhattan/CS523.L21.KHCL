@@ -27,3 +27,6 @@
 
 - [x] **Week 5**
   - [x] **[Trie](https://github.com/hoanghung3011/nhom6_cs523.l21.khcl)**
+
+- [x] **Week 6**
+  - [x] **[Segment Tree](https://github.com/taolaobd/CS523.L21.KHCL)**
