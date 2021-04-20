@@ -1,5 +1,5 @@
 # CS523.L21.KHCL - Advanced data structure and algorithm
-![](https://img.shields.io/badge/Status-working-brightgreen) [![](https://img.shields.io/badge/Contributors-3-brightgreen)](https://github.com/TienNguyenKha/CS112.L23.KHCL---Analysis-and-Design-of-Algorithms/graphs/contributors)
+![](https://img.shields.io/badge/Status-working-brightgreen) [![](https://img.shields.io/badge/Contributors-3-brightgreen)](https://github.com/trnhattan/CS523.L21.KHCL/graphs/contributors)
 ## Lecturer:
 - **Mr. Nguyen Thanh Son**   
 ---
