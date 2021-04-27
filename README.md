@@ -30,3 +30,6 @@
 
 - [x] **Week 6**
   - [x] **[Segment Tree](https://github.com/taolaobd/CS523.L21.KHCL)**
+
+- [x] **Week 7**
+  - [x] **[Graph - Minimum spanning forest](https://github.com/hoanghung3011/nhom6_cs523.l21.khcl/tree/main/nhom6)**
