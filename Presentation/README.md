@@ -43,7 +43,7 @@
 - Rabin Karp's application:
 A practical application of the algorithm is detecting plagiarism. Given source material, the algorithm can rapidly search through a paper for instances of sentences from the source material, ignoring details such as case and punctuation. Because of the abundance of the sought strings, single-string searching algorithms are impractical.
 
-## Reference:
+## References:
 - [KMP Algorithm for Pattern Searching](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/), geeksforgeeks.com
 - [The MP and KMP Algorithms, Algorithms Based upon](https://studylib.net/doc/7580926/chapter-6-the-mp-and-kmp-algorithms--algorithms-based-upon), studylib.net.
 - Gonzalo Navarro, Mathieu Raffinot, Flexible pattern matching in strings.
