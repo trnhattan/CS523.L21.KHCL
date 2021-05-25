@@ -26,10 +26,16 @@
   - [x] **[Indexing and B-Tree](https://github.com/CS523-L21-KHCL-TEAM-3/b-tree-visualizer)**
 
 - [x] **Week 5**
-  - [x] **[Trie](https://github.com/hoanghung3011/nhom6_cs523.l21.khcl)**
+  - [x] **[Trie](https://github.com/longbmtvip/trie)**
 
 - [x] **Week 6**
   - [x] **[Segment Tree](https://github.com/taolaobd/CS523.L21.KHCL)**
 
 - [x] **Week 7**
   - [x] **[Graph - Minimum spanning forest](https://github.com/hoanghung3011/nhom6_cs523.l21.khcl/tree/main/nhom6)**
+
+- [x] **Week 8**
+  - [x] **[Graph - Shortest path](https://gitlab.com/Hung1610/cs523.l21.khcl/-/tree/master/thi%E1%BA%BFt_ch%C3%ACnh)**
+
+- [x] **Week 9**
+  - [x] **[String pattern matching](https://github.com/trnhattan/CS523.L21.KHCL/tree/main/Presentation)**
