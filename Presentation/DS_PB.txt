@@ -1,4 +1,4 @@
-Phần trong lúc thuyết trình
+*Phần trong lúc thuyết trình
 Nguyễn Xuân Đỉnh : phát biểu 2 lần
 Hồ Hải Thuỷ : phát biểu 3 lần
 Trương Thị Kim Thoa : phát biểu 1 lần
@@ -10,7 +10,7 @@ Lê Vinh Quang : phát biểu 2 lần
 Trần Đăng Khôi : phát biểu 1 lần
 Trần Kim Hưng : phát biểu 2 lần
 Tô Nhật Huy : phát biểu 1 lần
+
 *Note: do nhóm chủ động đặt câu hỏi cho tất cả mọi người, nên trung bình mỗi người phát biểu 1 lần
 
-*Phần Kahoot
-Các nhóm tham gia rất đầy đủ mỗi nhóm 1 thành viên
+*Phần Kahoot : Các nhóm tham gia rất đầy đủ mỗi nhóm 1 thành viên
