@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <div class="container0">
+          <div class="Menu">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <div class="container-fluid">
+                  <img src="https://cs.uit.edu.vn/wp-content/uploads/2017/08/logocs.png" alt="logo" style="width:70px;"> &nbsp;
+                
+                  <a class="navbar-brand logo-button">CS523.KHCL</a>
+                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                      <li class="nav-item">
+                        <a class="nav-link active home-button" aria-current="page" href="http://localhost:4200/">Home</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link active github-button" href="https://github.com/trnhattan/CS523.L21.KHCL">Github</a>
+                      </li>
+                      <li class="nav-item kmp-button">
+                        <a class="nav-link active" [routerLink]="['/kmp']"routerLinkActive="router-link-active">KMP</a>
+                      </li>
+
+                      <li class="nav-item rabin-button">
+                        <a class="nav-link active" [routerLink]="['/rabinkarp']"routerLinkActive="router-link-active">Rabin Karp</a>
+                      </li>
+                      
+                    </ul>
+                    
+                  </div>
+                </div>
+              </nav>
+          </div>
+        </div>
+        
+    </body>
+    <router-outlet></router-outlet>
+</html>

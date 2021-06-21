@@ -1,0 +1,91 @@
+
+
+.flex-container{
+
+    display: flex;
+    
+    background-color: #7DA2A9;
+}
+.flex-container > div{
+    height: max-content;
+    width: 33%;
+    /*background-color: #5ec578;*/
+    margin: 5px;
+    padding: 10px;
+}
+
+
+/* cell_1 */
+.in-text{
+    font-size: 25px;
+    width: 90%;
+    height: 30%;
+    background-color: lightyellow;
+}
+.in-pattern{
+    font-size: 25px;
+    width: 90%;
+    height: 30%;
+    background-color:lightyellow;
+    margin-top: 2%;
+}
+.button-{
+    font-size: 20px;
+
+    margin-top: 2%;
+    margin-right: 2%;
+    
+}
+h2{
+    margin-top: 10px;
+    color: black;
+    margin-left: 30%;
+    font-size: 35px;
+}
+#visualize{
+    margin-left: 20px;
+}
+
+/* cell_2*/
+
+.square {
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid black ;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+
+.out-index{
+    margin-top: 12px;
+} 
+.txt-total{
+    font-size: 25px;
+    margin-left: 10px;
+} 
+.txt-index{
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.out-index{
+    background-color: rgb(238, 228, 230);
+    
+}
+.print{
+    font-size: 25px;
+    margin-left: 2%;
+   
+}
+
+/* cell_3*/
+
+.table{
+   
+    background-color: rgb(235, 225, 209);
+   margin-bottom: 5px;
+}
+

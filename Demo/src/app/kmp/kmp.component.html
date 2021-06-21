@@ -1,0 +1,30 @@
+
+ 
+<body>
+    <div class="flex-container">
+        <div class="cell1">
+            <h3>Input string</h3>
+            <input class="in-text" placeholder="Enter your text "  [(ngModel)]="text"> <br>        
+            <input class="in-pattern" placeholder="Enter your pattern "   [(ngModel)]="pattern"><br>
+            <button type="button" (click)="KMPAlgorithm(text,pattern)" class="btn btn-primary button-">Run</button>
+            <button onClick="window.location.href=window.location.href" class="btn btn-primary button-">Refresh</button>
+        </div>
+
+        <div class="cell2">
+            <h3 >Result</h3>
+            <div class="out-index">
+                <label class="txt-total"> Total: {{SumIndex(result)}}  </label>
+                <p class="txt-index"> Index: </p>
+                <label class="print" >{{ArrayToString(result)}}</label>
+            </div>           
+        </div>
+
+        <div class="cell3"> 
+            <h3>Longest Prefix</h3>
+           
+        </div>
+    </div>
+   
+    
+</body>
+

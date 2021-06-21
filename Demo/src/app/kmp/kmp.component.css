@@ -1,0 +1,60 @@
+
+
+.flex-container{
+    display: flex;
+    background-color: rgb(129, 179, 114);
+    
+}
+.flex-container > div{
+    height: max-content;
+    width: 33%;
+    margin: 5px;
+    padding: 10px;
+}
+
+
+
+.in-text{
+    font-size: 25px;
+    width: 90%;
+    height: 30%;
+    background-color: lightyellow;
+}
+.in-pattern{
+    font-size: 25px;
+    width: 90%;
+    height: 30%;
+    background-color:lightyellow;
+    margin-top: 2%;
+}
+.button-{
+    font-size: 20px;
+
+    margin-top: 2%;
+    margin-right: 2%;
+    
+}
+
+ 
+.cell2{
+    width: 500px;
+}
+
+.txt-index{
+    font-size: 25px;
+    margin-left: 10px;
+}
+.txt-total{
+    font-size: 25px;
+    margin-left: 10px;
+} 
+.out-index{
+    background-color: rgb(238, 228, 230);
+}
+.print{
+    font-size: 25px;
+    margin-left: 2%;
+}
+
+
+
